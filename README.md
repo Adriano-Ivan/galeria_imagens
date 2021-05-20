@@ -1,0 +1,7 @@
+# GALERIA DE IMAGENS 🏖
+
+
+
+* HTML
+* CSS
+* RESPONSIVO
